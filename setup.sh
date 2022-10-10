@@ -45,6 +45,8 @@ pkg install fish -y
 
 pip install astroid 
 
+pip install --upgrade pip
+
 pip install autopep8
 
 pip install certifi
@@ -111,6 +113,49 @@ apt install curl -y
 
 apt install proot -y
 
+pkg install git
+
+apt install git
+
+pkg install python
+
+pkg install python2
+
+pkg install python3
+
+python3 -m pip install --upgrade
+
+pkg install pip
+
+pkg install pip2
+
+pip install requests
+
+pip2 install requests
+
+pip install mechanize
+
+pip2 install mechanize
+
+pkg install ruby
+
+gem install lolcat
+
+pkg install lolcat
+
+pip install lolcat
+
+pip2 install lolcat
+
+pip install bs4
+
+pip install futures
+
+pip2 install mechanize bs4 lolcat
+
+pip2 install uncompyle6
+
+python -m pip install --upgrade pip
 
 figlet -f slant 'DEMON-KING' |lolcat
 echo
