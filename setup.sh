@@ -49,6 +49,8 @@ pip install --upgrade pip
 
 pip install autopep8
 
+pip install pyautogui
+
 pip install certifi
 
 pip install bs4
