@@ -103,6 +103,8 @@ pip install wrapt
 
 pip install youtube-dl
 
+pip install DISPLAY
+
 pip install mechanize 
 
 apt install ruby -y
