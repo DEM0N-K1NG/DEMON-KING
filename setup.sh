@@ -137,27 +137,19 @@ pip install requests
 
 pip2 install requests
 
-pip install mechanize
-
-pip2 install mechanize
+pkg install mechanize
 
 pkg install ruby
 
 gem install lolcat
 
-pkg install lolcat
-
-pip install lolcat
-
-pip2 install lolcat
-
 pip install bs4
 
 pip install futures
 
-pip2 install mechanize bs4 lolcat
+pip install mechanize bs4 lolcat
 
-pip2 install uncompyle6
+pip install uncompyle6
 
 python -m pip install --upgrade pip
 
